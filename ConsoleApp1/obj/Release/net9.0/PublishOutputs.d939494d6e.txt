@@ -1,0 +1,5 @@
+A:\C Sharp WS\Snake\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.exe
+A:\C Sharp WS\Snake\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.dll
+A:\C Sharp WS\Snake\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.deps.json
+A:\C Sharp WS\Snake\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.runtimeconfig.json
+A:\C Sharp WS\Snake\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.pdb
