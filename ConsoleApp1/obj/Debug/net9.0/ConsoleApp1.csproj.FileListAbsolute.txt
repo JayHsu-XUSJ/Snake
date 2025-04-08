@@ -26,3 +26,4 @@ A:\C Sharp WS\Snake\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
 A:\C Sharp WS\Snake\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
 A:\C Sharp WS\Snake\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 A:\C Sharp WS\Snake\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+A:\C Sharp WS\Snake\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
